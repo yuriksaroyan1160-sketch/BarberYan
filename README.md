@@ -33,9 +33,9 @@
 
 | Артефакт | Что показывает | Ссылка |
 |---|---|---|
-| Vision | Бизнес-требования, проблемы, границы системы |  |
-| ER-модель | Сущности, атрибуты, связи, словарь данных | |
-| BPMN | Основные бизнес-процессы и их ревизия ||
+| Vision | Бизнес-требования, проблемы, границы системы | [BSA03_HowToRequirements/src/ex00_BBS_vision.md](/BSA03_HowToRequirements/src/ex00_BBS_vision.md) |
+| ER-модель | Сущности, атрибуты, связи, словарь данных | [BSA04_Domains/src/ex03_BBS_model.png](/BSA04_Domains/src/ex03_BBS_model.png) |
+| BPMN | Основные бизнес-процессы и их ревизия | [BSA06_BPMN/src/ex04/](/BSA06_BPMN/src/ex04/) |
 | Use Cases | Потоки взаимодействия ролей с системой | |
 | User Stories | Потребности ролей + критерии приёмки и тест-сценарии |  |
 | FR Design | Статусные модели, CRUD, права доступа ||
@@ -45,8 +45,8 @@
 - [Источники информации](./BSA00_Decomposition/src/ex00_BBS_infosources.md)
 - [Глоссарий](./shared/BBS_Glossary.md)
 - [Каталог стейкхолдеров и луковичная диаграмма](./BSA01_Stakeholders/src/)
-- [Требования: as is → to be, контекстная диаграмма, потоки данных]()
-- [DFD, Swimlane, State diagram и таблица состояний]()
+- [Требования: as is → to be, контекстная диаграмма, потоки данных](/BSA02_Requirements/src/)
+- [DFD, Swimlane, State diagram и таблица состояний](/BSA05_Diagrams/src/)
 - [Классы, роли и диаграмма классов]()
 
 ---
