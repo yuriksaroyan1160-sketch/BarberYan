@@ -36,8 +36,8 @@
 | Vision | Бизнес-требования, проблемы, границы системы | [BSA03_HowToRequirements/src/ex00_BBS_vision.md](/BSA03_HowToRequirements/src/ex00_BBS_vision.md) |
 | ER-модель | Сущности, атрибуты, связи, словарь данных | [BSA04_Domains/src/ex03_BBS_model.png](/BSA04_Domains/src/ex03_BBS_model.png) |
 | BPMN | Основные бизнес-процессы и их ревизия | [BSA06_BPMN/src/ex04/](/BSA06_BPMN/src/ex04/) |
-| Use Cases | Потоки взаимодействия ролей с системой | |
-| User Stories | Потребности ролей + критерии приёмки и тест-сценарии |  |
+| Use Cases | Потоки взаимодействия ролей с системой | [BSA08_UseCase/src/](/BSA08_UseCase/src/) |
+| User Stories | Потребности ролей + критерии приёмки и тест-сценарии | [BSA07_UserStory/src/](/BSA07_UserStory/src/) |
 | FR Design | Статусные модели, CRUD, права доступа ||
 
 ### Supporting — фундамент
@@ -47,9 +47,8 @@
 - [Каталог стейкхолдеров и луковичная диаграмма](./BSA01_Stakeholders/src/)
 - [Требования: as is → to be, контекстная диаграмма, потоки данных](/BSA02_Requirements/src/)
 - [DFD, Swimlane, State diagram и таблица состояний](/BSA05_Diagrams/src/)
-- [Классы, роли и диаграмма классов]()
+- [Классы, роли и диаграмма классов](/BSA09_ObjectsAndRoles/src/)
 
----
 
 
 ## Инструменты
